@@ -1,0 +1,8 @@
+setup.py
+log-parser-rpt/_version.py
+log-parser-rpt/parse.py
+log_parser_rpt.egg-info/PKG-INFO
+log_parser_rpt.egg-info/SOURCES.txt
+log_parser_rpt.egg-info/dependency_links.txt
+log_parser_rpt.egg-info/requires.txt
+log_parser_rpt.egg-info/top_level.txt

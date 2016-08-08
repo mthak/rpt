@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: log-parser-rpt
+Version: 1.0.0.dev
+Summary: Parse lines and results of a  log file
+Home-page: UNKNOWN
+Author: Manoj Thakkar
+Author-email: writetomanoj@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Testing/Aplha
+Classifier: Environment :: Console
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
